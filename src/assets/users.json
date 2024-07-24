@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe1@example.com",
+    "phone": "123-456-7890",
+    "website": "www.johndoe1.com"
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "email": "jane.doe2@example.com",
+    "phone": "234-567-8901",
+    "website": "www.janedoe2.com"
+  },
+  {
+    "id": 3,
+    "name": "Jim Beam",
+    "email": "jim.beam3@example.com",
+    "phone": "345-678-9012",
+    "website": "www.jimbeam3.com"
+  },
+  {
+    "id": 4,
+    "name": "Jack Daniels",
+    "email": "jack.daniels4@example.com",
+    "phone": "456-789-0123",
+    "website": "www.jackdaniels4.com"
+  },
+  {
+    "id": 5,
+    "name": "Johnny Walker",
+    "email": "johnny.walker5@example.com",
+    "phone": "567-890-1234",
+    "website": "www.johnnywalker5.com"
+  },
+  {
+    "id": 6,
+    "name": "Jill Valentine",
+    "email": "jill.valentine6@example.com",
+    "phone": "678-901-2345",
+    "website": "www.jillvalentine6.com"
+  },
+  {
+    "id": 7,
+    "name": "Chris Redfield",
+    "email": "chris.redfield7@example.com",
+    "phone": "789-012-3456",
+    "website": "www.chrisredfield7.com"
+  },
+  {
+    "id": 8,
+    "name": "Leon Kennedy",
+    "email": "leon.kennedy8@example.com",
+    "phone": "890-123-4567",
+    "website": "www.leonkennedy8.com"
+  },
+  {
+    "id": 9,
+    "name": "Claire Redfield",
+    "email": "claire.redfield9@example.com",
+    "phone": "901-234-5678",
+    "website": "www.claireredfield9.com"
+  },
+  {
+    "id": 10,
+    "name": "Ada Wong",
+    "email": "ada.wong10@example.com",
+    "phone": "012-345-6789",
+    "website": "www.adawong10.com"
+  }
+]
